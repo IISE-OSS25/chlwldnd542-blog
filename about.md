@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Jiwoong Choi, a student majoring in Industrial Engineering at Seoul National University of Science ans Technology. I'm passionate about sports data analysis and visualization, especially finding insights and interpreting game flow through data.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+e-mail : jw3615@naver.com
 
